@@ -11,8 +11,10 @@ for (letter in secret) {
       secret[letter].map((item) => {
         resultado.splice(item, 1, k);
       });
+      break;
     }
   }
 }
 
+console.log(resultado.join(''));
 return resultado.toString();
