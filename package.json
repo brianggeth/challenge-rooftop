@@ -1,0 +1,11 @@
+{
+  "name": "challenge-rooftop",
+  "version": "1.0.0",
+  "description": "Challenge Rooftop by briangvazq",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "briangvazq",
+  "license": "ISC"
+}
